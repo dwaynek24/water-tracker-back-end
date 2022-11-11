@@ -7,6 +7,7 @@ const UserSchema = new mongoose.Schema({
 	activity: String,
     frequency: Number,
     duration: Number,
+    gallons:Number,
 });
 
 
